@@ -19,7 +19,6 @@
 - 📍 Based in **Norderstedt, Schleswig-Holstein, Germany**
 - 🏢 Working at **Furch Services**
 - 🌐 [Website](https://furch-services.de)
-- 👥 **0** followers · **0** following
 
 *Small, useful work over vague claims.*
 
